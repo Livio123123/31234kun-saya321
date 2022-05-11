@@ -1,4 +1,6 @@
 
-update   = ....
-username = ....
+update      = rabu, 11 mei 2022
+username    = dion_1133
+foto profil = tidak ada
+nama        = zerry
 
